@@ -21,9 +21,6 @@ sys.path.insert(0,os.path.join(PROJECT_ROOT,'apps'))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'flzj0w6ry%qwwfg-g3#p8%i!3poru&qbn218m8o_s6@hew=frv'
-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
